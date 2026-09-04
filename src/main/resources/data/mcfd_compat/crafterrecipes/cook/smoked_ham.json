@@ -1,0 +1,9 @@
+{
+  "type": "recipe",
+  "crafter": "chef_smelting",
+  "inputs": [{ "id": "farmersdelight:ham" }],
+  "min-building-level": 3,
+  "result": { "id": "farmersdelight:smoked_ham" },
+  "intermediate": "minecraft:furnace",
+  "show-tooltip": true
+}

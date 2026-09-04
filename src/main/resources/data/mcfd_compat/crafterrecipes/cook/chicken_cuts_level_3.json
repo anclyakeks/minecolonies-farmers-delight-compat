@@ -1,0 +1,12 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [{ "id": "minecraft:chicken" }],
+  "min-building-level": 3,
+  "max-building-level": 3,
+  "result": { "id": "farmersdelight:chicken_cuts", "count": 2 },
+  "additional-output": [{ "id": "minecraft:bone_meal" }],
+  "tool": "axe",
+  "intermediate": "minecraft:crafting_table",
+  "show-tooltip": true
+}

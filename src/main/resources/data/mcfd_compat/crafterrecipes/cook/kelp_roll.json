@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"farmersdelight:cooked_rice","count":2},{"id":"minecraft:carrot"},{"id":"minecraft:dried_kelp","count":3}],"result":{"id":"farmersdelight:kelp_roll"},"show-tooltip":true}

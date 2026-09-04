@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_smelting","inputs":[{"id":"farmersdelight:minced_beef"}],"result":{"id":"farmersdelight:beef_patty"},"intermediate":"minecraft:furnace","show-tooltip":true}

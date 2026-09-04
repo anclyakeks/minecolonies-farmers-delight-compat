@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"baker_crafting","inputs":[{"id":"minecraft:wheat","count":3},{"id":"minecraft:apple","count":3},{"id":"minecraft:sugar","count":2},{"id":"farmersdelight:pie_crust"}],"result":{"id":"farmersdelight:apple_pie"},"show-tooltip":true}

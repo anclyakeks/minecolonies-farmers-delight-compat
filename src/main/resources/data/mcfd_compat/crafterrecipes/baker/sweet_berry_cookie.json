@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"baker_crafting","inputs":[{"id":"minecraft:sweet_berries"},{"id":"minecraft:wheat","count":2}],"result":{"id":"farmersdelight:sweet_berry_cookie","count":8},"show-tooltip":true}

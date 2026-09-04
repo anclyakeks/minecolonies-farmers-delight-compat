@@ -1,0 +1,14 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:pumpkin_slice" },
+    { "id": "farmersdelight:cabbage_leaf" },
+    { "id": "farmersdelight:bacon" },
+    { "id": "minecraft:milk_bucket" },
+    { "id": "minecraft:bowl" }
+  ],
+  "result": { "id": "farmersdelight:pumpkin_soup" },
+  "additional-output": [{ "id": "minecraft:bucket" }],
+  "show-tooltip": true
+}

@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_smelting","inputs":[{"id":"farmersdelight:cod_slice"}],"result":{"id":"farmersdelight:cooked_cod_slice"},"intermediate":"minecraft:furnace","show-tooltip":true}

@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"minecraft:baked_potato"},{"id":"minecraft:cooked_beef"},{"id":"minecraft:bowl"},{"id":"farmersdelight:onion"},{"id":"farmersdelight:cooked_rice"}],"result":{"id":"farmersdelight:steak_and_potatoes"},"show-tooltip":true}

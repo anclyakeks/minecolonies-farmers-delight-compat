@@ -1,0 +1,14 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:raw_pasta" },
+    { "id": "minecraft:bowl" },
+    { "id": "farmersdelight:salmon_slice" },
+    { "id": "minecraft:ink_sac" },
+    { "id": "farmersdelight:tomato" }
+  ],
+  "result": { "id": "farmersdelight:squid_ink_pasta" },
+  "research-id": "minecolonies:technology/takingdivinglessons",
+  "show-tooltip": true
+}

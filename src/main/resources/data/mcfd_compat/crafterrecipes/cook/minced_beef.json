@@ -1,0 +1,8 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [{ "id": "minecraft:beef" }],
+  "min-building-level": 3,
+  "result": { "id": "farmersdelight:minced_beef", "count": 4 },
+  "show-tooltip": true
+}

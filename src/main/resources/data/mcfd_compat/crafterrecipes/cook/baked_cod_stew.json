@@ -1,0 +1,13 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:cod_slice" },
+    { "id": "minecraft:potato" },
+    { "id": "minecraft:egg" },
+    { "id": "farmersdelight:tomato" },
+    { "id": "minecraft:bowl" }
+  ],
+  "result": { "id": "farmersdelight:baked_cod_stew" },
+  "show-tooltip": true
+}

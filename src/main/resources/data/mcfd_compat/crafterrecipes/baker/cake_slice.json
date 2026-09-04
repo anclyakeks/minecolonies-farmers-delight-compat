@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"baker_crafting","inputs":[{"id":"minecraft:cake"}],"result":{"id":"farmersdelight:cake_slice","count":7},"tool":"axe","intermediate":"minecraft:crafting_table","show-tooltip":true}

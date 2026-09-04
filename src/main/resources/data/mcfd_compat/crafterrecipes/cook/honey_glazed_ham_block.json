@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"minecraft:sweet_berries","count":4},{"id":"minecraft:honey_bottle"},{"id":"farmersdelight:smoked_ham"},{"id":"farmersdelight:cooked_rice","count":2},{"id":"minecraft:bowl"}],"additional-output":[{"id":"minecraft:glass_bottle"}],"result":{"id":"farmersdelight:honey_glazed_ham_block"},"show-tooltip":true}

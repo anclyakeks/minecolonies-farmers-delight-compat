@@ -1,0 +1,11 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:shepherds_pie_block" },
+    { "id": "minecraft:bowl", "count": 4 }
+  ],
+  "result": { "id": "farmersdelight:shepherds_pie", "count": 4 },
+  "intermediate": "minecraft:air",
+  "show-tooltip": true
+}

@@ -1,0 +1,9 @@
+{
+  "type": "recipe",
+  "crafter": "planter_crafting",
+  "inputs": [{ "id": "minecraft:wheat_seeds" }],
+  "result": { "id": "farmersdelight:straw", "count": 5 },
+  "additional-output": [{ "id": "farmersdelight:rice" }],
+  "intermediate": "minecraft:water",
+  "show-tooltip": true
+}

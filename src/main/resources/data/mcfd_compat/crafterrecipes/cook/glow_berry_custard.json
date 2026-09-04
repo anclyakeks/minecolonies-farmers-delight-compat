@@ -1,0 +1,14 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "minecraft:glow_berries" },
+    { "id": "minecraft:milk_bucket" },
+    { "id": "minecraft:egg" },
+    { "id": "minecraft:sugar" },
+    { "id": "minecraft:bowl" }
+  ],
+  "result": { "id": "farmersdelight:glow_berry_custard" },
+  "additional-output": [{ "id": "minecraft:bucket" }],
+  "show-tooltip": true
+}

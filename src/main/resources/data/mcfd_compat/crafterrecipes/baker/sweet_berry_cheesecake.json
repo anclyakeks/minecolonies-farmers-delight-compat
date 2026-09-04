@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"baker_crafting","inputs":[{"id":"farmersdelight:pie_crust"},{"id":"minecraft:sweet_berries","count":6},{"id":"minecraft:milk_bucket","count":2}],"additional-output":[{"id":"minecraft:bucket","count":2}],"result":{"id":"farmersdelight:sweet_berry_cheesecake"},"show-tooltip":true}

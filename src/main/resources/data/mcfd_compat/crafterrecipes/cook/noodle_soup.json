@@ -1,0 +1,13 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:raw_pasta" },
+    { "id": "minecraft:bowl" },
+    { "id": "farmersdelight:fried_egg" },
+    { "id": "minecraft:dried_kelp" },
+    { "id": "farmersdelight:bacon" }
+  ],
+  "result": { "id": "farmersdelight:noodle_soup" },
+  "show-tooltip": true
+}

@@ -1,0 +1,9 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [{ "id": "farmersdelight:cabbage" }],
+  "min-building-level": 3,
+  "result": { "id": "farmersdelight:cabbage_leaf", "count": 2 },
+  "tool": "axe",
+  "show-tooltip": true
+}

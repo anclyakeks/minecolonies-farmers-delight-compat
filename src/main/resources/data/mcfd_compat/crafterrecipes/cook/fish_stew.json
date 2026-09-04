@@ -1,0 +1,12 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:salmon_slice" },
+    { "id": "farmersdelight:tomato_sauce" },
+    { "id": "farmersdelight:onion" },
+    { "id": "minecraft:bowl" }
+  ],
+  "result": { "id": "farmersdelight:fish_stew" },
+  "show-tooltip": true
+}

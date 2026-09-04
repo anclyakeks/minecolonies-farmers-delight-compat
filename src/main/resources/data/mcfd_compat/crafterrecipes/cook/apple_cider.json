@@ -1,0 +1,11 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "minecraft:apple", "count": 2 },
+    { "id": "minecraft:sugar" },
+    { "id": "minecraft:glass_bottle" }
+  ],
+  "result": { "id": "farmersdelight:apple_cider" },
+  "show-tooltip": true
+}

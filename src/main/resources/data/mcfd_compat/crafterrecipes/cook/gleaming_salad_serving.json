@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"farmersdelight:gleaming_salad_block"},{"id":"minecraft:bowl","count":4}],"result":{"id":"farmersdelight:gleaming_salad","count":4},"intermediate":"minecraft:air","show-tooltip":true}

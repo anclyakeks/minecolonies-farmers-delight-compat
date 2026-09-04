@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"minecraft:crimson_fungus"},{"id":"minecraft:warped_fungus"},{"id":"minecraft:bowl"}],"result":{"id":"farmersdelight:nether_salad"},"show-tooltip":true}

@@ -1,0 +1,12 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:minced_beef" },
+    { "id": "minecraft:bowl" },
+    { "id": "minecraft:carrot" },
+    { "id": "minecraft:potato" }
+  ],
+  "result": { "id": "farmersdelight:beef_stew" },
+  "show-tooltip": true
+}

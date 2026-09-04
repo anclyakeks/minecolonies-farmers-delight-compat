@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_smelting","inputs":[{"id":"farmersdelight:mutton_chops"}],"result":{"id":"farmersdelight:cooked_mutton_chops"},"intermediate":"minecraft:furnace","show-tooltip":true}

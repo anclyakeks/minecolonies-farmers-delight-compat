@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"minecraft:bread"},{"id":"farmersdelight:cooked_chicken_cuts"},{"id":"farmersdelight:cabbage_leaf"},{"id":"minecraft:carrot"}],"result":{"id":"farmersdelight:chicken_sandwich"},"show-tooltip":true}

@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"minecraft:bread"},{"id":"farmersdelight:cooked_bacon"},{"id":"farmersdelight:cabbage_leaf"},{"id":"farmersdelight:tomato"}],"result":{"id":"farmersdelight:bacon_sandwich"},"show-tooltip":true}

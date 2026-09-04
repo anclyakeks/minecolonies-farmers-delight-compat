@@ -1,0 +1,12 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:wheat_dough" },
+    { "id": "farmersdelight:cabbage_leaf" },
+    { "id": "farmersdelight:onion" },
+    { "id": "farmersdelight:bacon" }
+  ],
+  "result": { "id": "farmersdelight:dumplings", "count": 2 },
+  "show-tooltip": true
+}

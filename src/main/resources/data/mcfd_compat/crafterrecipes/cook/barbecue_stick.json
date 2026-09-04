@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"farmersdelight:tomato"},{"id":"farmersdelight:onion"},{"id":"minecraft:cooked_beef"},{"id":"minecraft:stick"}],"result":{"id":"farmersdelight:barbecue_stick"},"show-tooltip":true}

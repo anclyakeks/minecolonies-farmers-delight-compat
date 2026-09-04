@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"farmersdelight:onion"},{"id":"minecraft:egg"},{"id":"minecraft:bread"},{"id":"minecraft:carrot","count":2},{"id":"minecraft:cooked_chicken"},{"id":"minecraft:baked_potato","count":2},{"id":"minecraft:bowl"}],"result":{"id":"farmersdelight:roast_chicken_block"},"show-tooltip":true}

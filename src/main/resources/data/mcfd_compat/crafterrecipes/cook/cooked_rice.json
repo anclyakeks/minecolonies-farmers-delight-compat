@@ -1,0 +1,10 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:rice" },
+    { "id": "minecraft:bowl" }
+  ],
+  "result": { "id": "farmersdelight:cooked_rice" },
+  "show-tooltip": true
+}

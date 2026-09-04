@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"minecraft:bread"},{"id":"farmersdelight:beef_patty"},{"id":"farmersdelight:cabbage_leaf"},{"id":"farmersdelight:tomato"},{"id":"farmersdelight:onion"}],"result":{"id":"farmersdelight:hamburger"},"show-tooltip":true}

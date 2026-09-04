@@ -1,0 +1,12 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:mutton_chops" },
+    { "id": "minecraft:bowl" },
+    { "id": "farmersdelight:raw_pasta" },
+    { "id": "farmersdelight:tomato_sauce" }
+  ],
+  "result": { "id": "farmersdelight:pasta_with_mutton_chop" },
+  "show-tooltip": true
+}

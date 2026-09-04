@@ -1,0 +1,14 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:rice" },
+    { "id": "minecraft:bowl" },
+    { "id": "farmersdelight:fried_egg" },
+    { "id": "minecraft:carrot" },
+    { "id": "farmersdelight:onion" }
+  ],
+  "min-building-level": 3,
+  "result": { "id": "farmersdelight:fried_rice" },
+  "show-tooltip": true
+}

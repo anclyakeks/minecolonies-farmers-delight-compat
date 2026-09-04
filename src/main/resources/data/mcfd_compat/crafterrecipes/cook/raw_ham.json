@@ -1,0 +1,12 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "minecraft:porkchop", "count": 2 },
+    { "id": "minecraft:bone" }
+  ],
+  "min-building-level": 3,
+  "result": { "id": "farmersdelight:ham" },
+  "tool": "shears",
+  "show-tooltip": true
+}

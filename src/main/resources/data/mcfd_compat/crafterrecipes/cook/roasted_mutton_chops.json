@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"farmersdelight:cooked_mutton_chops"},{"id":"minecraft:beetroot"},{"id":"minecraft:bowl"},{"id":"farmersdelight:cooked_rice"},{"id":"farmersdelight:tomato"}],"result":{"id":"farmersdelight:roasted_mutton_chops"},"show-tooltip":true}

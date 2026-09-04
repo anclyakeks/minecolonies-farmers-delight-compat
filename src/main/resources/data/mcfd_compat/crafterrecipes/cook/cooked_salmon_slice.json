@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_smelting","inputs":[{"id":"farmersdelight:salmon_slice"}],"result":{"id":"farmersdelight:cooked_salmon_slice"},"intermediate":"minecraft:furnace","show-tooltip":true}

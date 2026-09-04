@@ -1,0 +1,10 @@
+{
+  "type": "recipe",
+  "crafter": "baker_crafting",
+  "inputs": [{ "id": "farmersdelight:wheat_dough" }],
+  "min-building-level": 2,
+  "result": { "id": "farmersdelight:raw_pasta" },
+  "tool": "axe",
+  "intermediate": "minecraft:crafting_table",
+  "show-tooltip": true
+}

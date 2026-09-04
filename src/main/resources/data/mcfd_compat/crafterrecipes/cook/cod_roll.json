@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"farmersdelight:cod_slice","count":2},{"id":"farmersdelight:cooked_rice"}],"result":{"id":"farmersdelight:cod_roll","count":2},"show-tooltip":true}

@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_smelting","inputs":[{"id":"farmersdelight:bacon"}],"result":{"id":"farmersdelight:cooked_bacon"},"intermediate":"minecraft:furnace","show-tooltip":true}

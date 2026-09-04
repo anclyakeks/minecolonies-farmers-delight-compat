@@ -1,0 +1,15 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "minecraft:pumpkin" },
+    { "id": "farmersdelight:rice" },
+    { "id": "farmersdelight:onion" },
+    { "id": "minecraft:brown_mushroom" },
+    { "id": "minecraft:potato" },
+    { "id": "minecraft:sweet_berries" },
+    { "id": "minecraft:carrot" }
+  ],
+  "result": { "id": "farmersdelight:stuffed_pumpkin_block" },
+  "show-tooltip": true
+}

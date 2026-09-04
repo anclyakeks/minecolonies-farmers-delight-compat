@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"farmersdelight:kelp_roll"}],"result":{"id":"farmersdelight:kelp_roll_slice","count":3},"tool":"axe","intermediate":"minecraft:crafting_table","show-tooltip":true}

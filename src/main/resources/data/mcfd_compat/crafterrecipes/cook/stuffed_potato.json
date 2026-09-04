@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"minecraft:baked_potato"},{"id":"minecraft:cooked_beef"},{"id":"minecraft:milk_bucket"}],"additional-output":[{"id":"minecraft:bucket"}],"result":{"id":"farmersdelight:stuffed_potato"},"show-tooltip":true}

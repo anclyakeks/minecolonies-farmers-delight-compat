@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"baker_crafting","inputs":[{"id":"farmersdelight:apple_pie"}],"result":{"id":"farmersdelight:apple_pie_slice","count":4},"tool":"axe","intermediate":"minecraft:crafting_table","show-tooltip":true}

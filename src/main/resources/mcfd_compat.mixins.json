@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.anclyakeks.compat.mcfd.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractEntityAICraftingMixin",
+    "AbstractAISkeletonAccessor",
+    "EntityAIWorkFarmerMixin",
+    "FoodUtilsMixin",
+    "ItemStackUtilsMixin",
+    "RecipeStorageMixin",
+    "StackMixin",
+    "WorkerUtilMixin"
+  ],
+  "client": [
+    "client.RestaurantMenuIngredientListMixin",
+    "client.RestaurantMenuModuleWindowMixin",
+    "client.WindowFieldMixin",
+    "client.WindowListRecipesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

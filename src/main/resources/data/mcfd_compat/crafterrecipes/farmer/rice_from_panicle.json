@@ -1,0 +1,9 @@
+{
+  "type": "recipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    { "id": "farmersdelight:rice_panicle" }
+  ],
+  "result": { "id": "farmersdelight:rice" },
+  "show-tooltip": true
+}

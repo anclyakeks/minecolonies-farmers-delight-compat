@@ -1,0 +1,11 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:honey_glazed_ham_block" },
+    { "id": "minecraft:bowl", "count": 4 }
+  ],
+  "result": { "id": "farmersdelight:honey_glazed_ham", "count": 4 },
+  "intermediate": "minecraft:air",
+  "show-tooltip": true
+}

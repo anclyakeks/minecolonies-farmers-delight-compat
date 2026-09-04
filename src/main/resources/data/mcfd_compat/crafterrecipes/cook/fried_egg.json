@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_smelting","inputs":[{"id":"minecraft:egg"}],"result":{"id":"farmersdelight:fried_egg"},"intermediate":"minecraft:furnace","show-tooltip":true}

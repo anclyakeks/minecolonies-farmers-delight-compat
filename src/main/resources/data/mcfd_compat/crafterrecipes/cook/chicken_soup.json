@@ -1,0 +1,12 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:chicken_cuts" },
+    { "id": "minecraft:carrot" },
+    { "id": "farmersdelight:cabbage_leaf" },
+    { "id": "minecraft:bowl" }
+  ],
+  "result": { "id": "farmersdelight:chicken_soup" },
+  "show-tooltip": true
+}

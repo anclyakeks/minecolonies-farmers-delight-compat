@@ -1,0 +1,13 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:tomato" },
+    { "id": "farmersdelight:onion" },
+    { "id": "minecraft:beetroot" },
+    { "id": "farmersdelight:cabbage" },
+    { "id": "minecraft:bowl" }
+  ],
+  "result": { "id": "farmersdelight:ratatouille" },
+  "show-tooltip": true
+}

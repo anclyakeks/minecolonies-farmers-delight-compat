@@ -1,0 +1,13 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "minecraft:carrot" },
+    { "id": "minecraft:potato" },
+    { "id": "minecraft:beetroot" },
+    { "id": "farmersdelight:cabbage_leaf" },
+    { "id": "minecraft:bowl" }
+  ],
+  "result": { "id": "farmersdelight:vegetable_soup" },
+  "show-tooltip": true
+}

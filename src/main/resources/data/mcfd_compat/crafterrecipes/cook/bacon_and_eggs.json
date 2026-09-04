@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"farmersdelight:cooked_bacon","count":2},{"id":"minecraft:egg","count":2},{"id":"minecraft:bowl"}],"result":{"id":"farmersdelight:bacon_and_eggs"},"show-tooltip":true}

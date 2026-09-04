@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"farmersdelight:cabbage_leaf"},{"id":"farmersdelight:tomato"},{"id":"minecraft:beetroot"},{"id":"minecraft:bowl"}],"result":{"id":"farmersdelight:mixed_salad"},"show-tooltip":true}

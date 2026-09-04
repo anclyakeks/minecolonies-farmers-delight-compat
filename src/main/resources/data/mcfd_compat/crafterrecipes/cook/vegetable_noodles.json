@@ -1,0 +1,15 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:raw_pasta" },
+    { "id": "minecraft:bowl" },
+    { "id": "farmersdelight:cabbage_leaf" },
+    { "id": "minecraft:brown_mushroom" },
+    { "id": "farmersdelight:tomato" },
+    { "id": "minecraft:carrot" }
+  ],
+  "result": { "id": "farmersdelight:vegetable_noodles" },
+  "research-id": "minecolonies:technology/takingdivinglessons",
+  "show-tooltip": true
+}

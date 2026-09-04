@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"minecraft:bread"},{"id":"farmersdelight:cooked_mutton_chops"},{"id":"farmersdelight:cabbage_leaf"},{"id":"farmersdelight:onion"}],"result":{"id":"farmersdelight:mutton_wrap"},"show-tooltip":true}

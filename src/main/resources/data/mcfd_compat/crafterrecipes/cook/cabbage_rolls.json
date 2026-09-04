@@ -1,0 +1,10 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "farmersdelight:cabbage_leaf" },
+    { "id": "farmersdelight:bacon" }
+  ],
+  "result": { "id": "farmersdelight:cabbage_rolls" },
+  "show-tooltip": true
+}

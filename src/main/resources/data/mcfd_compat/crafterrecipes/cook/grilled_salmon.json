@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"minecraft:cooked_salmon"},{"id":"minecraft:sweet_berries"},{"id":"minecraft:bowl"},{"id":"farmersdelight:cabbage"},{"id":"farmersdelight:onion"}],"result":{"id":"farmersdelight:grilled_salmon"},"show-tooltip":true}

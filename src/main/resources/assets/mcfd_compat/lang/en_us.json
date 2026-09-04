@@ -1,0 +1,9 @@
+{
+  "mcfd_compat.ui.compatible_ingredient": "%s  [MC/FD]",
+  "mcfd_compat.ui.field.select_seed": "Select crop ⓘ",
+  "mcfd_compat.ui.field.supported_crops": "Supported Farmer's Delight crops: cabbage, tomatoes, onions, rice, and normal red/brown mushrooms.",
+  "mcfd_compat.ui.field.rich_soil_delivery": "Put Rich Soil directly into the farmer's inventory. One block is consumed per converted field cell. Automatic requests can be enabled in the server config.",
+  "mcfd_compat.ui.field.rice": "Rice: prepare one-block-deep source water above dirt inside the field. The farmer neither creates nor removes water, plants rice into it, and harvests mature panicles while preserving the lower stalk. A 1 panicle → 1 rice recipe is available to the farmer.",
+  "mcfd_compat.ui.field.mushroom": "Mushrooms: select a normal red or brown mushroom. Each cell's ground is replaced with Rich Soil from the farmer's inventory, then the mushroom becomes a colony. Rich Soil Farmland is not suitable here.",
+  "mcfd_compat.ui.field.normal_crop": "This crop grows on normal Farmland or Rich Soil Farmland. Put Rich Soil in the farmer's inventory to upgrade cells; tomato ropes are not required."
+}

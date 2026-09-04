@@ -1,0 +1,9 @@
+{
+  "type": "recipe",
+  "crafter": "planter_crafting",
+  "inputs": [{ "id": "farmersdelight:straw_bale" }],
+  "result": { "id": "farmersdelight:tomato", "count": 6 },
+  "additional-output": [{ "id": "farmersdelight:rotten_tomato", "count": 3 }],
+  "research-id": "minecolonies:technology/takingdivinglessons",
+  "show-tooltip": true
+}

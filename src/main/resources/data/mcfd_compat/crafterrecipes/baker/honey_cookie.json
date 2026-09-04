@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"baker_crafting","inputs":[{"id":"minecraft:honey_bottle"},{"id":"minecraft:wheat","count":2}],"additional-output":[{"id":"minecraft:glass_bottle"}],"result":{"id":"farmersdelight:honey_cookie","count":8},"show-tooltip":true}

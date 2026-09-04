@@ -1,0 +1,1 @@
+{"type":"recipe","crafter":"chef_crafting","inputs":[{"id":"minecraft:melon_slice","count":4},{"id":"minecraft:sugar"},{"id":"minecraft:glass_bottle"}],"result":{"id":"farmersdelight:melon_juice"},"show-tooltip":true}

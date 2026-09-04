@@ -1,0 +1,12 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [
+    { "id": "minecraft:brown_mushroom" },
+    { "id": "minecraft:red_mushroom" },
+    { "id": "farmersdelight:rice" },
+    { "id": "minecraft:bowl" }
+  ],
+  "result": { "id": "farmersdelight:mushroom_rice" },
+  "show-tooltip": true
+}

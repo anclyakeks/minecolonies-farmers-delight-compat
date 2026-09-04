@@ -1,0 +1,8 @@
+{
+  "type": "recipe",
+  "crafter": "chef_crafting",
+  "inputs": [{ "id": "minecraft:porkchop" }],
+  "min-building-level": 4,
+  "result": { "id": "farmersdelight:bacon", "count": 4 },
+  "show-tooltip": true
+}
